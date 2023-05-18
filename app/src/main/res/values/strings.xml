@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">FirstStep</string>
+    <string name="hotel_names">
+        <item>Dolphin Camp</item>
+        <item>Ecotel Dahab Bay</item>
+        <item>Happy Life Village</item>
+        <item>Shames</item>
+        <item>Dahab Paradise</item>
+        <item>Swiss Inn Resort</item>
+        <item>Acacia Dahab Hotel</item>
+    </string>
+    <string name="hotel_id">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+    </string>
+    <string name="hotel_roomnum">
+        <item>"50"</item>
+        <item>"40"</item>
+        <item>"70"</item>
+        <item>"60"</item>
+        <item>"55"</item>
+        <item>"45"</item>
+        <item>"30"</item>
+    </string>
 </resources>
